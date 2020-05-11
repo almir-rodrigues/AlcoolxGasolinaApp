@@ -1,0 +1,17 @@
+<?xml	version="1.0"	encoding="UTF-8"?>
+
+<widget	xmlns="http://www.w3.org/ns/widgets"
+
+xmlns:gap="http://phonegap.com/ns/1.0"
+
+id="alcoolxgasolina"
+
+version="1.0.0">
+
+<name>Álcool x Gasolina</name>
+
+<description>Calcula o custo beneficio entre o álcool e a gasolina</description>
+
+<author	href="http://almir.rodrigues.com" email="almir.srodrigues08@gmail.com">Almir</author>
+<icon src="imagens/abastecer.png"	/>
+</widget>
